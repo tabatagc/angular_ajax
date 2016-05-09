@@ -1,0 +1,30 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "integrando back-end por AJAX com serviço $http.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tabatagc"
+  },
+  "keywords": [
+    "Angularjs",
+    "youtube",
+    "learningcode",
+    "javascript",
+    "express",
+    "node"
+  ],
+  "dependencies": {
+    "express": "^3.x"
+  },
+  "author": "Tabata",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tabatagc"
+  },
+  "homepage": "https://github.com/tabatagc"
+}
